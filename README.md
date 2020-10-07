@@ -1,5 +1,7 @@
 # AngularCourse
 
+Project created for the course Angular: De cero a experto, for more information about the course visit the following link https://www.udemy.com/share/101WdsBUsac1lRRHg=/
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.4.
 
 ## Development server
